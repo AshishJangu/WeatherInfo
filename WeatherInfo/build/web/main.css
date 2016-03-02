@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 1, 2016, 3:26:39 PM
+    Author     : JANGU29
+*/
+#weatherInfo{
+    border-radius:50px;
+    border:1px black solid;
+    background-color:wheat;
+    color:black;
+    font-size:15px;
+    font-weight:bolder;
+}
+body{
+       background-color:whitesmoke;
+    //background-repeat: no-repeat;
+    //background-position: right top;
+    //background-attachment:fixed;
+  
+ }
+ 
